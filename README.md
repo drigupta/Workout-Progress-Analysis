@@ -14,17 +14,15 @@ This visualization highlights the gap between the Added Volume (including bar we
 This visualisation helps to identify which muscle groups are receiving the most stimulus and ensure the training split is balanced according to the program goals.
 <img width="821" height="544" alt="subplot" src="https://github.com/user-attachments/assets/d1ea37dc-885a-4d8d-9487-e86ce7a923d1" />
 
-<img width="821" height="544" alt="subplot" src="https://github.com/user-attachments/assets/59109bdc-f9de-492b-a0fa-17d15b0a0ac2" />
-
-
 ### 3. Exercise Intensity Heatmap
-This heatmap identifies the "Intensity Zones" of the program, showing where the most volume is being accumulated .
-<img width="840" height="586" alt="Screenshot 2026-04-22 at 15 17 04" src="https://github.com/user-attachments/assets/e1c4a952-4be5-4c5e-a3b9-85ad7c60cdd9" />
+This heatmap identifies the "Intensity Zones" of the program, showing where the most volume is being accumulated.
+<img width="819" height="573" alt="heatmap" src="https://github.com/user-attachments/assets/ad7ef7ab-6cae-4914-8274-ec37b27b88f9" />
 
 ### 3. Progressive Overload
 This visualisation helps to analyse the progressive overload for Big 3 and top 3 most frequent exercises.
-<img width="840" height="273" alt="big3" src="https://github.com/user-attachments/assets/59663d1e-f133-4b37-9566-4977aafbdb95" />
-<img width="840" height="272" alt="top3" src="https://github.com/user-attachments/assets/84576e69-df51-4764-8505-59cf8f8ab3e3" />
+<img width="814" height="265" alt="big3" src="https://github.com/user-attachments/assets/5af522fa-51fe-467a-a708-5db09a3ac7d6" />
+<img width="813" height="262" alt="top3" src="https://github.com/user-attachments/assets/59535c80-3c57-45ac-837a-60008fa61ece" />
+
 
 
 ## Key Insights
