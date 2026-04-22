@@ -12,7 +12,7 @@ This visualization highlights the gap between the Added Volume (including bar we
 
 ### 2. Training Balance
 This visualisation helps to identify which muscle groups are receiving the most stimulus and ensure the training split is balanced according to the program goals.
-<img width="979" height="983" alt="subplot" src="https://github.com/user-attachments/assets/c38ff0e2-8e87-4479-9fd3-5ca871e99301" />
+<img width="821" height="544" alt="subplot" src="https://github.com/user-attachments/assets/d1ea37dc-885a-4d8d-9487-e86ce7a923d1" />
 
 ### 3. Exercise Intensity Heatmap
 This heatmap identifies the "Intensity Zones" of the program, showing where the most volume is being accumulated .
