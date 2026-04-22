@@ -10,9 +10,18 @@ This project involves a comprehensive analysis of strength training data. The pr
 This visualization highlights the gap between the Added Volume (including bar weight) against Total Volume (including bar and body weight). It demonstrates the importance of data normalization in fitness tracking.
 <img width="839" height="351" alt="Screenshot 2026-04-22 at 15 16 04" src="https://github.com/user-attachments/assets/fb7ac1b1-83ef-41ca-af10-f5ad232f032c" />
 
-### 2. Exercise Intensity Heatmap
+### 2. Training Balance
+This visualisation helps to identify which muscle groups are receiving the most stimulus and ensure the training split is balanced according to the program goals.
+<img width="840" height="554" alt="subplot" src="https://github.com/user-attachments/assets/928bb223-b87c-4672-9786-2be68a7f8ecb" />
+
+### 3. Exercise Intensity Heatmap
 This heatmap identifies the "Intensity Zones" of the program, showing where the most volume is being accumulated .
 <img width="840" height="586" alt="Screenshot 2026-04-22 at 15 17 04" src="https://github.com/user-attachments/assets/e1c4a952-4be5-4c5e-a3b9-85ad7c60cdd9" />
+
+### 3. Progressive Overload
+This visualisation helps to analyse the progressive overload for Big 3 and top 3 most frequent exercises.
+<img width="840" height="273" alt="big3" src="https://github.com/user-attachments/assets/59663d1e-f133-4b37-9566-4977aafbdb95" />
+<img width="840" height="272" alt="top3" src="https://github.com/user-attachments/assets/84576e69-df51-4764-8505-59cf8f8ab3e3" />
 
 
 ## Key Insights
