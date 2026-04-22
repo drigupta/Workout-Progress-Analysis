@@ -18,11 +18,10 @@ This visualisation helps to identify which muscle groups are receiving the most 
 This heatmap identifies the "Intensity Zones" of the program, showing where the most volume is being accumulated.
 <img width="819" height="573" alt="heatmap" src="https://github.com/user-attachments/assets/ad7ef7ab-6cae-4914-8274-ec37b27b88f9" />
 
-### 3. Progressive Overload
+### 4. Progressive Overload
 This visualisation helps to analyse the progressive overload for Big 3 and top 3 most frequent exercises.
 <img width="814" height="265" alt="big3" src="https://github.com/user-attachments/assets/5af522fa-51fe-467a-a708-5db09a3ac7d6" />
 <img width="813" height="262" alt="top3" src="https://github.com/user-attachments/assets/59535c80-3c57-45ac-837a-60008fa61ece" />
-
 
 
 ## Key Insights
